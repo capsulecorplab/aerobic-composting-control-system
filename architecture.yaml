@@ -18,8 +18,8 @@ package:
   name: aerobic-composting-control-system
   version: 0.1.0
   description: Aerobic Composting Control System
-  repository: https://github.com/pylar-io/pylar.git
-  homepage: https://pylar-io.github.io/docs
+  repository: https://github.com/pylar-io/aerobic-composting-control-system.git
+  homepage: https://pylar-io.github.io/aerobic-composting-control-system
   license: MIT
   dependencies: {}
 generationDate: 3/2/2022
