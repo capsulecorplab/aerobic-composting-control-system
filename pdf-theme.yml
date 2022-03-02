@@ -24,7 +24,7 @@ header:
   recto:
     left:
       content: |
-        *Aerobic Composting Research System* +
+        *Aerobic Composting Control System* +
     right:
       content: |
         *v0.1.0*
