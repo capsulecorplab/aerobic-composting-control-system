@@ -15,7 +15,7 @@ elements:
     derivedFrom:
       - 0-References/1-CompostNeedsTemperature.yaml
 package:
-  name: composting-research
+  name: aerobic-composting-control-system
   version: 0.1.0
   description: Composting Research
   repository: https://github.com/pylar-io/pylar.git
