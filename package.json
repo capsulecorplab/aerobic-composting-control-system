@@ -1,9 +1,9 @@
 {
-  "name": "pylar-docs",
+  "name": "aerobic-composting-control-system",
   "version": "0.1.0",
-  "description": "Pylar",
-  "repository": "https://github.com/pylar-io/pylar.git",
-  "homepage": "https://pylar-io.github.io/docs",
+  "description": "Aerobic Composting Control System",
+  "repository": "https://github.com/pylar-io/aerobic-composting-control-system.git",
+  "homepage": "https://pylar-io.github.io/aerobic-composting-control-system",
   "license": "MIT",
   "dependencies": {}
 }
