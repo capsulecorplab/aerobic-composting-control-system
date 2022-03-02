@@ -1,4 +1,4 @@
-= Composting Research
+= Aerobic Composting Research System
 :doc-name: architecture.adoc
 :revnumber: v0.1.0
 :toc: left
@@ -13,7 +13,7 @@ endif::[]
 
 == Stakeholder Needs
 
-The Composting Research is guided by a series of stakeholder needs, listed below.
+The Aerobic Composting Research System is guided by a series of stakeholder needs, listed below.
 
 
 === 1: Optimum Compost Temperature
@@ -25,11 +25,11 @@ In an aerobic composting system, the optimum temperature range for thermophilic 
 
 == User Stories
 
-The Composting Research's stakeholder needs are then used to identify a series of user stories which then lead to design decisions captured in data structure and activity definitions.
+The Aerobic Composting Research System's stakeholder needs are then used to identify a series of user stories which then lead to design decisions captured in data structure and activity definitions.
 
 
 
 == Data Structures
-This section covers each data structure type in the *Composting Research*.
+This section covers each data structure type in the *Aerobic Composting Research System*.
 
 

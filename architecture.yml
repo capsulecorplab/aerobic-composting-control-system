@@ -17,7 +17,7 @@ elements:
 package:
   name: aerobic-composting-control-system
   version: 0.1.0
-  description: Composting Research
+  description: Aerobic Composting Research System
   repository: https://github.com/pylar-io/pylar.git
   homepage: https://pylar-io.github.io/docs
   license: MIT
